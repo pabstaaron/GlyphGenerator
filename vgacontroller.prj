@@ -1,0 +1,3 @@
+verilog work "pxLineCounterssync.v"
+verilog work "colorgen.v"
+verilog work "vgacontroller.v"
